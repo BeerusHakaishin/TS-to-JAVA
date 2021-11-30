@@ -1,6 +1,6 @@
 public class Adress{
-	String number;
-	String street;
+	String streetNumber;
+	String streetName;
 	String city;
 	String country;
 }
